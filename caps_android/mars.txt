@@ -1,9 +1,10 @@
 [caps]
 platformName = "Android"
-automationName = "UiAutomator2"
-deviceName = 'orio_27'
+deviceName = 'mars'
 app = "/Users/Danilo.Policarpo/dev/appium/build/apk/app-debug.apk"
-udid = "emulator-5554"
+platformVersion= "6.0"
+systemPort = 8203
+
 
 [appium_lib]
-port = "4527"
+port = "4528"
